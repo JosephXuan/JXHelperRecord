@@ -2434,6 +2434,14 @@ http://blog.csdn.net/chenyxh2005/article/details/54347642 支付宝
 //http://www.sosohub.com 混淆代码
 //http://code.cocoachina.com/view/1000217 XMTXCustomKeyBoard 自定义键盘
 //https://help.apple.com/app-store-connect/#/dev4e413fcb8 上传注意事项
+//https://github.com/nenhall/NHAVEditor  视频添加水印
+//https://www.cnblogs.com/741162830qq/p/4878247.html LaunchScreen.storyboard 设置启动图
+//https://blog.csdn.net/blog_jihq/article/details/51734235 启动图
+//https://github.com/RockerHX/LaunchScreenAnimation-Storyboard 启动图
+//https://www.jianshu.com/p/2f1149269cd0 启动图 搜 LaunchScreen 简书
+//https://blog.csdn.net/wx_jin/article/details/50617041 启动图 搜 LaunchScreen csdn
+//https://blog.csdn.net/matiji66/article/details/50602015 启动图
+//https://download.csdn.net/download/wx_jin/9460717 启动图 下方相关链接
 @interface AppTools : NSObject
 /*
  * swift
