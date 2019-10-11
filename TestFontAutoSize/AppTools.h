@@ -2442,6 +2442,10 @@ http://blog.csdn.net/chenyxh2005/article/details/54347642 支付宝
 //https://blog.csdn.net/wx_jin/article/details/50617041 启动图 搜 LaunchScreen csdn
 //https://blog.csdn.net/matiji66/article/details/50602015 启动图
 //https://download.csdn.net/download/wx_jin/9460717 启动图 下方相关链接
+//http://code.cocoachina.com/view/1000223 小说 阅读
+//http://www.cocoachina.com/articles/69650?filter=rec 百度网盘 会员 等一些指令
+//http://www.cocoachina.com/articles/68616?filter=rec git指令
+//https://github.com/tianya2416/GKiOSApp demo 多玩APP
 @interface AppTools : NSObject
 /*
  * swift
