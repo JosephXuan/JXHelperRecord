@@ -2446,7 +2446,10 @@ http://blog.csdn.net/chenyxh2005/article/details/54347642 支付宝
 //http://www.cocoachina.com/articles/69650?filter=rec 百度网盘 会员 等一些指令
 //http://www.cocoachina.com/articles/68616?filter=rec git指令
 //https://github.com/tianya2416/GKiOSApp demo 多玩APP
+//https://blog.csdn.net/tfy_2425482491/article/details/101626127 ios13
+//https://blog.csdn.net/wuyangyang555/article/details/101285410 xcode 11 Scenedelegate
 @interface AppTools : NSObject
+//https://www.jianshu.com/p/685a7e5aeb9c mac项目上传到gitHub
 /*
  * swift
  */
