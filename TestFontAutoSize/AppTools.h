@@ -801,7 +801,7 @@
 //http://www.jianshu.com/p/149517ed8535 今日头条详情页
 //http://blog.csdn.net/lw_chen/article/details/52129645 展开
 //http://code.cocoachina.com/view/135755 切换 界面
-//https://github.com/yaoquanfeng123/FFVipLevelProgressView  步骤 仿淘宝 进度条 动画 物流 时间轴 步骤 下一步 等级
+//https://github.com/TanLuoHua/FFVipLevelProgressView 步骤 仿淘宝 进度条 动画 物流 时间轴 步骤 下一步 等级
 //http://code.cocoachina.com/view/133348 时间轴
 //http://code.cocoachina.com/view/129819 条形码数字编号
 //https://github.com/735850697 时间轴
@@ -1713,7 +1713,7 @@ http://blog.csdn.net/chenyxh2005/article/details/54347642 支付宝
 // https://github.com/mafangchao/XMGBPhotoBrower 网页 JS 图片浏览
 // https://github.com/ZYiDa/WKWebviewDemo 微信 js 和 oc 互相调用
 //http://code.cocoachina.com/view/137700 抖音 https://github.com/QuintGao/GKDYVideo
-//http://www.cocoachina.com/ios/20181106/25393.html 进度条
+//http://www.cocoachina.com/ios/20181106/25393.html 进度条 物流 状态 https://www.jianshu.com/p/fb471ca68a1b
 //http://www.cocoachina.com/ios/20181106/25389.html 链接Demo
 //http://www.cocoachina.com/ios/20181102/25363.html OC
 //https://github.com/wangjiegit/WJMoviePlayer 视频播放 微信朋友圈
@@ -2448,6 +2448,49 @@ http://blog.csdn.net/chenyxh2005/article/details/54347642 支付宝
 //https://github.com/tianya2416/GKiOSApp demo 多玩APP
 //https://blog.csdn.net/tfy_2425482491/article/details/101626127 ios13
 //https://blog.csdn.net/wuyangyang555/article/details/101285410 xcode 11 Scenedelegate
+//https://github.com/Jayxiang/CJLandscapeDemo/ 横竖屏
+//https://github.com/CXTretar/CXProvincesMapView 地图 绘制的中国省份地图框架
+//http://www.cocoachina.com/articles/83448 ios13 xcode11 适配
+//:https://github.com/howoften/ListViewLoading 预加载动画
+//http://www.cocoachina.com/articles/87024?filter=rec ios13 xcode11 适配 暗黑模式
+//https://www.cnblogs.com/FZP5/p/11671241.html ios 13 状态栏颜色
+//https://github.com/yangKJ/KJSchemesDemo app相互跳转 互跳 跳转到其他App
+//https://github.com/netyouli/WHC_Scan 清除项目垃圾类 无用类
+//https://github.com/DragonTnT/appstore-clone app store 动画
+//http://www.cocoachina.com/articles/95433?filter=rec app 启动图 启动 优化
+//https://github.com/pengzishang/EasyStepIndicator 步骤指示器
+// https://github.com/CXTretar/CXLinkageSheetDemo 表格
+// 高仿微信录制 视频编辑 图片编辑 https://github.com/wsl2ls/iOS_Tips.git  或简书：https://www.jianshu.com/p/a2a04cabb98d
+//https://github.com/pengzishang/EasyStepIndicator 步骤指示器
+//https://github.com/QuintGao/GKPageScrollView 多层次嵌套 例如 个人主页 达人主页 课程详情
+//githud https://github.com/wwmz/WMZDialog 简书地址 https://www.jianshu.com/p/601ad3960353 日历 iOS13 present 弹出效果
+//http://www.cocoachina.com/articles/455505?filter=rec 最基础的算法
+//FKDownloader 下载 https://github.com/SYFH/FKDownloader
+//https://github.com/HeroWqb/HWDownloadDemo 下载
+//http://code.cocoachina.com/view/1000334 弹出 视图 菜单栏 支付宝 淘宝 列表 弹出视图
+///http://code.cocoachina.com/view/1000325 不规则collview https://www.jianshu.com/p/9fafd89c97ad 瀑布流 https://github.com/wsl2ls/WSLWaterFlowLayout.git
+///http://code.cocoachina.com/view/1000319 卡片效果
+///http://code.cocoachina.com/view/1000317 添加水印
+///https://github.com/pujiaxin33/JXExcel excel
+///https://github.com/biostome/BTTransition 转场动画 抖音的评论 半屏弹出
+/// https://www.jianshu.com/p/9257bc9d33a2 微信 内部的悬浮框
+/// https://github.com/shabake/GHAlibabaSpecificationSelectionDemo SKU
+///http://code.cocoachina.com/view/1000297 水波纹效果
+///https://github.com/luckyxiangfeng/ZMCommentView 评论框 抖音 masnory
+///https://github.com/juvham/kaiyan 开眼app demo
+///https://github.com/LoongerTao/TLAnimationTabBar tabbar 动画
+///一个支持多联动、上下合并的表格  Excel https://github.com/hi-zhouyn/ZHLinkageChartView - https://www.jianshu.com/p/7ffacc6783a5
+///图片处理 https://github.com/vincent111000/VCSticker
+///https://github.com/hi-zhouyn/ZHFigureDrawingLayer 画画 编辑 涂鸦
+///https://github.com/wayone/Indicator 指示器
+///http://code.cocoachina.com/view/1000340 动画 加载动画 loding
+///https://github.com/hi-zhouyn/ZHFilterMenuView 筛选
+///http://code.cocoachina.com/view/1000339 自定义键盘 数字键盘
+///http://code.cocoachina.com/view/1000338 列表 cell item 缩放
+///https://github.com/whatsbug/IGuide 新手引导动画
+///https://github.com/cdpenggod/CDPBinaryTree.git 二叉树~
+///http://code.cocoachina.com/view/1000365 地图
+/// http://code.cocoachina.com/view/1000364 滑动解锁 滑动登录
 @interface AppTools : NSObject
 //https://www.jianshu.com/p/685a7e5aeb9c mac项目上传到gitHub
 /*
